@@ -1,0 +1,46 @@
+.menu-links {
+    color: #5271ff;
+    font-family: sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    
+}
+
+.menu-links:hover {
+    font-weight: bold;
+    
+}
+
+.menu-links-selected {
+    color: #38b6ff;
+    font-family: sans-serif;
+    font-style: normal;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header-1 {
+    color: #38b6ff;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.header-2 {
+    color: #5271ff;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.header {
+    color: #38b6ff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.menu-table {
+    width: 16%;
+}
+
+body {font-family: Arial, Helvetica, sans-serif;}
